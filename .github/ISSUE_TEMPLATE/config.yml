@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Discord
+    - name: Discord
     url: https://gepton.in/discord
     about: Please ask and answer questions here.
-  - name: Twitter
-    url: mailto:notify@gepton.com?subject=Your_Subject%20-%20Via%20Github%20Issue
-    about: Or mail us at: notify@gepton.com
