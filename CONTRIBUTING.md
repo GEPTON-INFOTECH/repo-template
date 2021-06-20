@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: /fork
-[pr]: /compare
+[fork]: ../../fork
+[pr]: ../../compare
 [jsStyle]: https://standardjs.com/
 [dartStyle]: https://dart.dev/guides/language/effective-dart/style
 [code-of-conduct]: CODE_OF_CONDUCT.md
