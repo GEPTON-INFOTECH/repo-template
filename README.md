@@ -1,3 +1,5 @@
+[contributing]: CONTRIBUTING.md
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ![GEPTON](https://user-images.githubusercontent.com/39991296/122655705-18f33100-d172-11eb-8c5d-83378ea38e70.png)
@@ -11,7 +13,7 @@
 ## Contributing
 `Contributions are welcome 🎉🎉`
 
-Please refer to the project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
+Please refer to the project's style and [contribution guidelines][contributing] for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
  1. **Fork** the repo on GitHub
  2. **Clone** the project to your own machine
